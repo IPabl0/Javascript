@@ -1,12 +1,12 @@
-console.log ("Operadores \n")
-console.log (100+4*11)
-console.log("Modulo entre 100 y 3")
-console.log(100%3)
+console.log("Operadores \n");
+console.log(100 + 4 * 11);
+console.log("Modulo entre 100 y 3");
+console.log(100 % 3);
 
-console.log("Operadores Unarios")
+console.log("Operadores Unarios");
 console.log(typeof 5.9);
 console.log(typeof "Pablo");
-console.log(-(10-8));
+console.log(-(10 - 8));
 
 console.log("Operadores logicos");
 
@@ -27,7 +27,7 @@ OPERADOR        DESCRIPCION
 
 console.log("Igual que");
 console.log(5 == 5);
-console.log(5==3);
+console.log(5 == 3);
 
 console.log("Diferente que");
 console.log(5 != 5);

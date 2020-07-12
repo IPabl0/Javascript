@@ -1,0 +1,1 @@
+Esta obra está licenciada bajo la Licencia Creative Commons Atribución-NoComercial-CompartirIgual 2.0 Chile. Para ver una copia de esta licencia, visite http://creativecommons.org/licenses/by-nc-sa/2.0/cl/ o envíe una carta a Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
