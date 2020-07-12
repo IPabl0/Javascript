@@ -32,7 +32,7 @@ Instalar como Cualquier otro programa con permisos administrativos.
 
 **_Asegurate que estas opciones esten activadas_**
 
-![NodeJS_Instalacion](/asset/InstNodeJS.JPG)
+![NodeJS_Instalacion](/asset/Inst_NodeJS.JPG)
 
 ## Construido con 🛠️
 
